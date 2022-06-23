@@ -3,9 +3,7 @@ package javapackage;
 import java.util.Scanner;
 
 public class loc {
-	{// here no method & function then why its print or call
-		System.out.println("Hello World");
-	}
+
 	public static void main(String[] args) {
 		int x1;
 		int x3;
